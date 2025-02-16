@@ -14,7 +14,7 @@ I am new to x86-64 OS Internals, so if there are any mistakes or necessary addit
 
 #### 1. Use the WinDBG command `dq idtr L10` and hand-parse the first 8 IDT descriptors, according to the Interrupt Descriptor format in the slides.
 
-![Screenshot1]((https://github.com/ghaBBster/writeups/blob/main/Screenshot1.png))
+![Screenshot1](https://github.com/ghaBBster/writeups/blob/main/Screenshot1.png)
 
 `dq` = quadwords (8 bytes).
 

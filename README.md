@@ -4,11 +4,6 @@ This writeup covers the Pearly Interrupt Gates lab from Xeno’s [Architecture 2
 
 Xeno made this lab to deepen students' understanding of interrupt and exception handling.
 
-
-## Disclaimer
-
-I am new to x86-64 OS Internals, so if there are any mistakes or necessary additions, please let me know on [X](https://twitter.com/theokwebb).
-
 # Part 1 Instructions
 
 #### 1. Use the WinDBG command `dq idtr L10` and hand-parse the first 8 IDT descriptors, according to the Interrupt Descriptor format in the slides.
